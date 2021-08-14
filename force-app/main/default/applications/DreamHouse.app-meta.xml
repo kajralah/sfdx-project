@@ -13,17 +13,15 @@
     <label>DreamHouse</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
+    <tabs>Property_Finder</tabs>
+    <tabs>Property_Explorer</tabs>
     <tabs>Property__c</tabs>
     <tabs>Broker__c</tabs>
     <tabs>standard-Contact</tabs>
-    <tabs>Property_Explorer1</tabs>
-    <tabs>Command_Center</tabs>
     <tabs>Einstein_Vision</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-Event</tabs>
-    <tabs>Heat_Map_Mock</tabs>
-    <tabs>Heat_Map</tabs>
     <tabs>Sample_Data_Import</tabs>
     <tabs>Bot_Command__c</tabs>
     <tabs>standard-File</tabs>
