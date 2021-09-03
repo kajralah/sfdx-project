@@ -5,6 +5,36 @@
                 "type": "Broker__c",
                 "referenceId": "Broker__cRef1"
             },
+            "Name": "Caroline Kingsley",
+            "Email__c": "caroline@dreamhouse.demo",
+            "Phone__c": "617-244-3672",
+            "Mobile_Phone__c": "617-244-3672",
+            "Title__c": "Senior Broker",
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/caroline_kingsley.jpg",
+            "Properties__r": {
+                "records": []
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef2"
+            },
+            "Name": "Michael Jones",
+            "Email__c": "michael@dreamhouse.demo",
+            "Phone__c": "617-244-3672",
+            "Mobile_Phone__c": "617-244-3672",
+            "Title__c": "Senior Broker",
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michael_jones.jpg",
+            "Properties__r": {
+                "records": []
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef3"
+            },
             "Name": "Jonathan Bradley",
             "Email__c": "jonathan@dreamhouse.demo",
             "Phone__c": "617-244-3672",
@@ -18,7 +48,7 @@
         {
             "attributes": {
                 "type": "Broker__c",
-                "referenceId": "Broker__cRef2"
+                "referenceId": "Broker__cRef4"
             },
             "Name": "Jennifer Wu",
             "Email__c": "jen@dreamhouse.demo",
@@ -33,7 +63,7 @@
         {
             "attributes": {
                 "type": "Broker__c",
-                "referenceId": "Broker__cRef3"
+                "referenceId": "Broker__cRef5"
             },
             "Name": "Olivia Green",
             "Email__c": "olivia@dreamhouse.demo",
@@ -48,7 +78,7 @@
         {
             "attributes": {
                 "type": "Broker__c",
-                "referenceId": "Broker__cRef4"
+                "referenceId": "Broker__cRef6"
             },
             "Name": "Miriam Aupont",
             "Email__c": "miriam@dreamhouse.demo",
@@ -63,7 +93,7 @@
         {
             "attributes": {
                 "type": "Broker__c",
-                "referenceId": "Broker__cRef5"
+                "referenceId": "Broker__cRef7"
             },
             "Name": "Michelle Lambert",
             "Email__c": "michelle@dreamhouse.demo",
@@ -78,7 +108,7 @@
         {
             "attributes": {
                 "type": "Broker__c",
-                "referenceId": "Broker__cRef6"
+                "referenceId": "Broker__cRef8"
             },
             "Name": "Victor Ochoa",
             "Email__c": "victor@dreamhouse.demo",
@@ -86,36 +116,6 @@
             "Mobile_Phone__c": "617-244-3672",
             "Title__c": "Senior Broker",
             "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/victor_ochoa.jpg",
-            "Properties__r": {
-                "records": []
-            }
-        },
-        {
-            "attributes": {
-                "type": "Broker__c",
-                "referenceId": "Broker__cRef7"
-            },
-            "Name": "Caroline Kingsley",
-            "Email__c": "caroline@dreamhouse.demo",
-            "Phone__c": "617-244-3672",
-            "Mobile_Phone__c": "617-244-3672",
-            "Title__c": "Senior Broker",
-            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/caroline_kingsley.jpg",
-            "Properties__r": {
-                "records": []
-            }
-        },
-        {
-            "attributes": {
-                "type": "Broker__c",
-                "referenceId": "Broker__cRef8"
-            },
-            "Name": "Michael Jones",
-            "Email__c": "michael@dreamhouse.demo",
-            "Phone__c": "617-244-3672",
-            "Mobile_Phone__c": "617-244-3672",
-            "Title__c": "Senior Broker",
-            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michael_jones.jpg",
             "Properties__r": {
                 "records": []
             }

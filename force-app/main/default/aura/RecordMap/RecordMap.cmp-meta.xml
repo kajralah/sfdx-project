@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AuraDefinitionBundle xmlns="urn:metadata.tooling.soap.sforce.com" fqn="RecordMap">
+<<<<<<< HEAD
     <apiVersion>47.0</apiVersion>
     <description>A Lightning Component Bundle</description>
 </AuraDefinitionBundle>
+=======
+    <apiVersion>44.0</apiVersion>
+    <description>A Lightning Component Bundle</description>
+</AuraDefinitionBundle>
+>>>>>>> 7fecfdc10deeed78d4f885a23fd05f61f176fb00

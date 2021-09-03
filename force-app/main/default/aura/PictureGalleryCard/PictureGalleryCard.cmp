@@ -23,8 +23,16 @@
                 </div>
 
             </div>
+<<<<<<< HEAD
             <div class="slds-backdrop slds-backdrop--open"></div>
         </aura:if>
     </lightning:card>
 
 </aura:component>
+=======
+            <div class="slds-backdrop slds-backdrop_open"></div>
+        </aura:if>
+    </lightning:card>
+
+</aura:component>
+>>>>>>> 7fecfdc10deeed78d4f885a23fd05f61f176fb00
