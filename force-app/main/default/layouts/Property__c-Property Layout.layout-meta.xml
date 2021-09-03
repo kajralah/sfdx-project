@@ -131,8 +131,6 @@
         <layoutColumns/>
         <style>TwoColumnsTopToBottom</style>
     </layoutSections>
-<<<<<<< HEAD
-=======
     <platformActionList>
         <actionListContext>Record</actionListContext>
         <platformActionListItems>
@@ -187,7 +185,6 @@
     <relatedLists>
         <relatedList>RelatedFileList</relatedList>
     </relatedLists>
->>>>>>> 7fecfdc10deeed78d4f885a23fd05f61f176fb00
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
     <showInteractionLogPanel>false</showInteractionLogPanel>
